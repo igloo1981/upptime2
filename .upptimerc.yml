@@ -9,7 +9,7 @@ sites:
     expectedStatusCodes:
     - 200
     - 400
-    maxResponseTime: 5000
+    maxResponseTime: 5000 
 
 
 status-website:
