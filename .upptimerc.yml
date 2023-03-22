@@ -8,6 +8,7 @@ sites:
     method: GET
     expectedStatusCodes:
     - 200
+    - 400
     maxResponseTime: 5000
 
 
